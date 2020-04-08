@@ -1,7 +1,0 @@
-nums = [12,345,2,6,7896]
-count = 0 
-for i in nums:
-    i = str(i)
-    if len(i)%2 == 0:
-        count +=1 
-print(count)
